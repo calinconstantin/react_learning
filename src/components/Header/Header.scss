@@ -1,0 +1,23 @@
+.header {
+    background-color: salmon;
+
+    &__logo {
+        border: 1px solid slateblue;
+    }
+
+    &__text {
+        border: 1px solid red;
+
+        &:hover {
+            border: 5px solid blue;
+        }
+    }
+
+    &__list-container {
+
+    }
+
+    &__list-item {
+
+    }
+}
